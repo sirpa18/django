@@ -1,5 +1,6 @@
 # django
-Newbie ?!
+This is a simple TODO app in Dajngo.
+
 I would suggest to start by knowing how to control the application with a simple helloworld. 
 Check this out first and then try the demo todo app given .
 
